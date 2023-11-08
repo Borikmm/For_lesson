@@ -1,0 +1,15 @@
+C:\All2\programming\Languages\C#\string_mth\bin\Debug\net6.0\string_mth.exe
+C:\All2\programming\Languages\C#\string_mth\bin\Debug\net6.0\string_mth.deps.json
+C:\All2\programming\Languages\C#\string_mth\bin\Debug\net6.0\string_mth.runtimeconfig.json
+C:\All2\programming\Languages\C#\string_mth\bin\Debug\net6.0\string_mth.dll
+C:\All2\programming\Languages\C#\string_mth\bin\Debug\net6.0\string_mth.pdb
+C:\All2\programming\Languages\C#\string_mth\obj\Debug\net6.0\string_mth.csproj.AssemblyReference.cache
+C:\All2\programming\Languages\C#\string_mth\obj\Debug\net6.0\string_mth.GeneratedMSBuildEditorConfig.editorconfig
+C:\All2\programming\Languages\C#\string_mth\obj\Debug\net6.0\string_mth.AssemblyInfoInputs.cache
+C:\All2\programming\Languages\C#\string_mth\obj\Debug\net6.0\string_mth.AssemblyInfo.cs
+C:\All2\programming\Languages\C#\string_mth\obj\Debug\net6.0\string_mth.csproj.CoreCompileInputs.cache
+C:\All2\programming\Languages\C#\string_mth\obj\Debug\net6.0\string_mth.dll
+C:\All2\programming\Languages\C#\string_mth\obj\Debug\net6.0\refint\string_mth.dll
+C:\All2\programming\Languages\C#\string_mth\obj\Debug\net6.0\string_mth.pdb
+C:\All2\programming\Languages\C#\string_mth\obj\Debug\net6.0\string_mth.genruntimeconfig.cache
+C:\All2\programming\Languages\C#\string_mth\obj\Debug\net6.0\ref\string_mth.dll
